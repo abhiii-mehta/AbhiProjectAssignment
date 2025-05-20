@@ -1,0 +1,69 @@
+{
+    "categories": [
+        {
+            "name": "Characters",
+            "topics": [
+                {
+                    "name": "Cabinet",
+                    "entries": [
+                        {
+                            "title": "Lileas Graf",
+                            "description": "Lileas Graf is the current Minister of Foreign Affairs. Known for her strict stance on national security.",
+                            "image": "lileas_graf"
+                        },
+                        {
+                            "title": "Anton Rayne",
+                            "description": "Current President of Sordland. A reformist facing political turmoil.",
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "World Leaders",
+                    "entries": [
+                        {
+                            "title": "President Soll",
+                            "description": "Rayne's predecessor. Known for strong industrial reforms.",
+                            "image": "soll"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Locations",
+            "topics": [
+                {
+                    "name": "Cities",
+                    "entries": [
+                        {
+                            "title": "Stahlport",
+                            "description": "Major industrial city in the south of Sordland.",
+                            "image": "stahlport"
+                        },
+                        {
+                            "title": "Deyr",
+                            "description": "An old city filled with history and tradition.",
+                            "image": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Organizations",
+            "topics": [
+                {
+                    "name": "Military",
+                    "entries": [
+                        {
+                            "title": "Sordland Armed Forces",
+                            "description": "Main military branch of the Sordish Republic.",
+                            "image": "saf"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

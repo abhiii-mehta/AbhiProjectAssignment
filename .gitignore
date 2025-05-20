@@ -63,4 +63,8 @@ Assets/ProBuilderData/
 *.cache
 *.tmp
 
+# Visual Studio & Copilot garbage
+.vs/
+CopilotIndices/
+
 
